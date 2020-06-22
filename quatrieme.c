@@ -1,24 +1,18 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   troisieme.c                                        :+:      :+:    :+:   */
+/*   quatrieme.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: mazoukni <mazoukni@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/18 01:50:26 by mazoukni          #+#    #+#             */
-/*   Updated: 2020/06/19 18:56:57 by mazoukni         ###   ########.fr       */
+/*   Updated: 2020/06/22 09:41:21 by mazoukni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
 
-**  Troisieme cour refrait 
-**  Variable en C
-**  Variables de type int (integer)
-**  chaine de charactere qu prondre le char 5 + caractere special
-**  ms bas no , tout a fait dans le memoire il s'agit une pointure
-**  et le type char il prent deux octets alors , on a 4 octects + 1 char + 
-**  special charactere OU 8 octest + 1 char + special charactere.
+**  Type de variables , type char
 
 */
 
@@ -28,11 +22,14 @@
 int 
     main(int argc, char *argv[])
 {
-    int toto;
-    char* titi;
-    titi = "5";
-    toto = 5;
-    printf ("L'entier           : %d\n", toto);
-    printf ("Chaine de char     : %s", titi);
+    char toto;
+    
+    toto = 'A';
+    printf ("%c\n", toto);
+    toto = toto + 1;
+    printf ("%c\n", toto);
+    toto = toto + 1;
+    printf ("%c", toto);
+    
     return EXIT_SUCCESS;
 }
