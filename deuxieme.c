@@ -6,9 +6,16 @@
 /*   By: mazoukni <mazoukni@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/18 01:50:26 by mazoukni          #+#    #+#             */
-/*   Updated: 2020/06/19 03:40:05 by mazoukni         ###   ########.fr       */
+/*   Updated: 2020/06/26 01:11:38 by mazoukni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+/*
+
+**  Source : https://www.youtube.com/watch?v=5TFNRK9RCPA&list=PLHuw27vJ1fCfza1_m_bFYScefHCBRxs4T&index=2
+**  Execution : gcc deuxieme.c && ./a.out
+
+*/
 
 #include <stdio.h>
 #include <stdlib.h>

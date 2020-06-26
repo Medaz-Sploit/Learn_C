@@ -6,17 +6,22 @@
 /*   By: mazoukni <mazoukni@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/22 21:04:11 by mazoukni          #+#    #+#             */
-/*   Updated: 2020/06/26 01:04:53 by mazoukni         ###   ########.fr       */
+/*   Updated: 2020/06/26 01:14:38 by mazoukni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
 /*
 
+**  Source : https://www.youtube.com/watch?v=Z1bI7Ra-llE&list=PLHuw27vJ1fCfza1_m_bFYScefHCBRxs4T&index=6
+**  Execution : gcc sixieme.c && ./a.out
+**
+**
 **  Sixième cours :
 **  Un program qui calcule et aui affiche l'air d'un regtangle A sa connaissant 
 **  longeur L et sa largeur  l
 **  la formule c'est : A = L * l 
+
 */
 
 #include <stdio.h>

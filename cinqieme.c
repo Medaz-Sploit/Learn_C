@@ -6,12 +6,15 @@
 /*   By: mazoukni <mazoukni@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/22 21:04:47 by mazoukni          #+#    #+#             */
-/*   Updated: 2020/06/22 21:04:51 by mazoukni         ###   ########.fr       */
+/*   Updated: 2020/06/26 01:14:28 by mazoukni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
 
+**  Source : https://www.youtube.com/watch?v=Mryrz4aB0LI&list=PLHuw27vJ1fCfza1_m_bFYScefHCBRxs4T&index=5
+**  Execution : gcc cinqieme.c && ./a.out
+**
 **  les caratctere partie 2.
 
 */

@@ -6,12 +6,17 @@
 /*   By: mazoukni <mazoukni@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/18 01:50:26 by mazoukni          #+#    #+#             */
-/*   Updated: 2020/06/19 18:56:57 by mazoukni         ###   ########.fr       */
+/*   Updated: 2020/06/26 01:12:46 by mazoukni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+
 /*
 
+**  Source : https://www.youtube.com/watch?v=Mryrz4aB0LI&list=PLHuw27vJ1fCfza1_m_bFYScefHCBRxs4T&index=3
+**  Execution : gcc troisieme.c && ./a.out
+**
+**
 **  Troisieme cour refrait 
 **  Variable en C
 **  Variables de type int (integer)
